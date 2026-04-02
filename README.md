@@ -230,28 +230,3 @@ Each platform provides a pricing calculator to estimate costs before you deploy 
 | Best for | General cloud | Microsoft/enterprise ecosystem | Data & ML workloads |
 
 ---
-
-## Next Steps
-
-After completing the above, consider exploring:
-
-- **Serverless computing:** AWS Lambda, Azure Functions, GCP Cloud Functions
-- **Managed databases:** AWS RDS, Azure SQL Database, GCP Cloud SQL
-- **Identity & Access Management (IAM):** Learn how to create users, roles, and policies on each platform
-- **Cloud CLI tools:** AWS CLI, Azure CLI (`az`), GCP SDK (`gcloud`)
-- **Infrastructure as Code:** Terraform (works across all three platforms)
-
----
-
-## Resources
-
-- [AWS Documentation](https://docs.aws.amazon.com)
-- [Azure Documentation](https://learn.microsoft.com/azure)
-- [GCP Documentation](https://cloud.google.com/docs)
-- [AWS Free Tier FAQ](https://aws.amazon.com/free/faqs/)
-- [Azure Free Account FAQ](https://azure.microsoft.com/free/free-account-faq/)
-- [GCP Free Tier Details](https://cloud.google.com/free/docs/free-cloud-features)
-
----
-
-*Happy cloud exploring! ☁️*

@@ -1,7 +1,5 @@
 # CC-Practicals
-Here's the raw markdown you can paste directly into your GitHub README:
 
-```markdown
 # ☁️ Cloud Platforms – Getting Started Guide
 
 > A beginner-friendly walkthrough to setting up free-tier accounts on **AWS**, **Azure**, and **GCP**, exploring their core services, and understanding pricing tools.
@@ -256,4 +254,4 @@ After completing the above, consider exploring:
 
 ---
 
-Just copy everything inside the code block and paste it into your `README.md` file on GitHub. It'll render with all the headers, tables, and links properly formatted.
+*Happy cloud exploring! ☁️*

@@ -1,232 +1,31 @@
 # CC-Practicals
 
-# ☁️ Cloud Platforms – Getting Started Guide
+# Q2) <img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/8fb303fe-3fed-46fa-b3f3-120a0c80ac4b" />
+<img width="1919" height="929" alt="Screenshot 2026-04-16 193709" src="https://github.com/user-attachments/assets/a8d7b82e-e40e-432c-b2af-44ffe1aa9741" />
+<img width="1919" height="935" alt="Screenshot 2026-04-16 193833" src="https://github.com/user-attachments/assets/3b7b229b-f369-4a61-b478-7bd9e39c9bef" />
 
-> A beginner-friendly walkthrough to setting up free-tier accounts on **AWS**, **Azure**, and **GCP**, exploring their core services, and understanding pricing tools.
 
----
+# Q3) <img width="1919" height="929" alt="Screenshot 2026-04-16 195039" src="https://github.com/user-attachments/assets/f5dfcb62-83ae-4055-b5fb-150531fcb22a" />
+<img width="1919" height="922" alt="Screenshot 2026-04-16 201902" src="https://github.com/user-attachments/assets/f7d72e20-d95b-4c04-aafe-a13a4e3c85ae" />
+<img width="1919" height="922" alt="Screenshot 2026-04-16 202007" src="https://github.com/user-attachments/assets/5f5e7547-37c1-459a-9acd-1c15b3bad276" />
+<img width="1919" height="923" alt="Screenshot 2026-04-16 202127" src="https://github.com/user-attachments/assets/2f5158d7-f984-43ee-ac64-cdd68010e7a8" />
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/53278851-c10f-47c9-a735-1e91a3cb5580" />
+<img width="1797" height="770" alt="image" src="https://github.com/user-attachments/assets/a350ed53-7dfd-4a58-bfa6-cf2beadaad82" />
 
-## 📋 Table of Contents
+# Q4) <img width="1919" height="925" alt="Screenshot 2026-04-16 223411" src="https://github.com/user-attachments/assets/d5e2d850-8b76-42ab-98e4-52bcc9c9b7b6" />
+<img width="1919" height="931" alt="Screenshot 2026-04-16 223716" src="https://github.com/user-attachments/assets/64d4e66a-59ed-43fc-9a77-12aaa43697d4" />
+<img width="1919" height="862" alt="image" src="https://github.com/user-attachments/assets/88f6104c-211f-45c3-8f16-fff2d596b024" />
+<img width="1592" height="688" alt="image" src="https://github.com/user-attachments/assets/ed8f75a3-bedd-4423-ba84-6fdeca0e9068" />
+<img width="1866" height="790" alt="image" src="https://github.com/user-attachments/assets/0dc94d34-c347-4e5b-b266-6b94a46938a9" />
+<img width="1864" height="792" alt="image" src="https://github.com/user-attachments/assets/08a13ad8-27f9-4ed1-9af3-cdce4ed84604" />
 
-- [Overview](#overview)
-- [Part 1 – Create Free-Tier Accounts](#part-1--create-free-tier-accounts)
-- [Part 2 – Explore Dashboards & Key Services](#part-2--explore-dashboards--key-services)
-- [Part 3 – Understand Pricing Calculators](#part-3--understand-pricing-calculators)
-- [Quick Comparison](#quick-comparison)
-- [Next Steps](#next-steps)
+# Q6) <img width="1596" height="713" alt="image" src="https://github.com/user-attachments/assets/6e2d2151-317e-4d26-b681-864fd9588b12" />
+<img width="1594" height="714" alt="image" src="https://github.com/user-attachments/assets/bca56c4c-38ea-42f4-9b4c-aa76d5e4dab2" />
 
----
 
-## Overview
 
-This guide helps you get hands-on with the three major cloud platforms. By the end, you will have:
 
-- Active free-tier accounts on AWS, Azure, and GCP
-- Familiarity with each platform's management console
-- An understanding of core service categories: compute, storage, and networking
-- Experience using each platform's pricing calculator
 
-No prior cloud experience is required.
 
----
 
-## Part 1 – Create Free-Tier Accounts
 
-### Amazon Web Services (AWS)
-
-1. Visit [https://aws.amazon.com/free](https://aws.amazon.com/free)
-2. Click **Create a Free Account**
-3. Enter your email address and choose an AWS account name
-4. Provide billing information (a credit card is required, but you will not be charged within free-tier limits)
-5. Complete identity verification via phone
-6. Select the **Basic Support – Free** plan
-
-**What you get (12-month free tier highlights):**
-- 750 hours/month of EC2 t2.micro or t3.micro instances
-- 5 GB of S3 standard storage
-- 750 hours/month of RDS (single-AZ db.t2.micro)
-- 1 million Lambda requests/month (always free)
-
----
-
-### Microsoft Azure
-
-1. Visit [https://azure.microsoft.com/free](https://azure.microsoft.com/free)
-2. Click **Start free**
-3. Sign in with or create a Microsoft account
-4. Provide billing information
-5. Complete identity verification
-
-**What you get:**
-- $200 USD credit valid for 30 days
-- 12 months of popular free services (e.g., 750 hours of B1s VMs, 5 GB Blob Storage)
-- 55+ services that are always free (e.g., Azure Functions, Azure DevOps)
-
----
-
-### Google Cloud Platform (GCP)
-
-1. Visit [https://cloud.google.com/free](https://cloud.google.com/free)
-2. Click **Get started for free**
-3. Sign in with a Google account
-4. Provide billing information
-
-**What you get:**
-- $300 USD credit valid for 90 days
-- Always-free tier including 1 f1-micro VM instance per month, 5 GB of Cloud Storage, and 1 million Cloud Functions invocations/month
-
----
-
-> ⚠️ **Note:** All three platforms require a valid credit card for identity verification. You will only be charged if you exceed free-tier limits or explicitly upgrade your account.
-
----
-
-## Part 2 – Explore Dashboards & Key Services
-
-Once your accounts are active, spend time navigating each console. Below are the key service categories and where to find them.
-
----
-
-### 🖥️ Compute
-
-Compute services let you run applications in the cloud.
-
-| Platform | Service Name | Console Location |
-|---|---|---|
-| AWS | EC2 (Elastic Compute Cloud) | Services → Compute → EC2 |
-| Azure | Virtual Machines | Home → Virtual Machines |
-| GCP | Compute Engine | Navigation Menu → Compute Engine |
-
-**What to look for:**
-- Instance/VM types and sizes (e.g., t2.micro on AWS, B1s on Azure, e2-micro on GCP)
-- How to launch, stop, and terminate instances
-- Regions and availability zones
-
----
-
-### 🗄️ Storage
-
-Storage services let you save files, objects, and data in the cloud.
-
-| Platform | Service Name | Console Location |
-|---|---|---|
-| AWS | S3 (Simple Storage Service) | Services → Storage → S3 |
-| Azure | Blob Storage | Home → Storage Accounts |
-| GCP | Cloud Storage | Navigation Menu → Cloud Storage |
-
-**What to look for:**
-- How to create a bucket or storage container
-- Storage classes (e.g., Standard, Infrequent Access, Archive)
-- Access control and permissions
-
----
-
-### 🌐 Networking
-
-Networking services control how your resources communicate.
-
-| Platform | Service Name | Console Location |
-|---|---|---|
-| AWS | VPC (Virtual Private Cloud) | Services → Networking → VPC |
-| Azure | Virtual Network (VNet) | Home → Virtual Networks |
-| GCP | VPC Network | Navigation Menu → VPC Network |
-
-**What to look for:**
-- How to create a virtual network
-- Subnets, IP ranges, and routing
-- Security groups / firewall rules
-
----
-
-### 💡 Tips for Exploring Dashboards
-
-- Use the **search bar** at the top of each console to quickly find any service
-- Check the **"Getting Started"** or **"Quickstart"** sections within each service
-- Enable **Cost Alerts / Budgets** immediately to avoid unexpected charges:
-  - AWS: Billing Dashboard → Budgets
-  - Azure: Cost Management → Budgets
-  - GCP: Billing → Budgets & Alerts
-
----
-
-## Part 3 – Understand Pricing Calculators
-
-Each platform provides a pricing calculator to estimate costs before you deploy anything.
-
----
-
-### AWS Pricing Calculator
-
-🔗 [https://calculator.aws/pricing/2/home](https://calculator.aws/pricing/2/home)
-
-**How to use it:**
-1. Click **Create estimate**
-2. Search for a service (e.g., EC2)
-3. Configure your expected usage (region, instance type, hours/month)
-4. Add multiple services to build a full estimate
-5. Click **Export** to save or share your estimate
-
-**Key features:**
-- Supports 100+ services
-- Allows grouped estimates by project or team
-- Exportable as CSV or shareable via URL
-
----
-
-### Azure Pricing Calculator
-
-🔗 [https://azure.microsoft.com/pricing/calculator](https://azure.microsoft.com/pricing/calculator)
-
-**How to use it:**
-1. Browse or search for a product (e.g., Virtual Machines)
-2. Configure options: region, OS, tier, hours
-3. View the monthly cost estimate on the right panel
-4. Click **Save** or **Export** to keep your estimate
-
-**Key features:**
-- Side-by-side comparison of tiers (Basic, Standard, Premium)
-- Dev/Test pricing options
-- Supports saving estimates to your Azure account
-
----
-
-### GCP Pricing Calculator
-
-🔗 [https://cloud.google.com/products/calculator](https://cloud.google.com/products/calculator)
-
-**How to use it:**
-1. Select a product (e.g., Compute Engine)
-2. Fill in the configuration fields (machine type, region, hours)
-3. The cost estimate updates in real time on the right
-4. Click **Add to Estimate** for multiple services
-5. Share or export the final estimate
-
-**Key features:**
-- Real-time cost updates as you configure
-- Sustained-use discounts calculated automatically
-- Shareable via link
-
----
-
-### 📊 Calculator Comparison
-
-| Feature | AWS | Azure | GCP |
-|---|---|---|---|
-| Real-time updates | Partial | Yes | Yes |
-| Shareable link | Yes | Yes | Yes |
-| Export to CSV | Yes | Yes | No (PDF only) |
-| Dev/Test pricing | Yes | Yes | No |
-| Sustained use discounts | Manual | Manual | Automatic |
-
----
-
-## Quick Comparison
-
-| | AWS | Azure | GCP |
-|---|---|---|---|
-| Free credit | None | $200 / 30 days | $300 / 90 days |
-| Always-free tier | Yes (broad) | Yes (55+ services) | Yes (selected services) |
-| Console complexity | Moderate | Moderate | Beginner-friendly |
-| Best for | General cloud | Microsoft/enterprise ecosystem | Data & ML workloads |
-
----

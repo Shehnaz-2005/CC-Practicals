@@ -1,4 +1,4 @@
-# Cloud Computing-Practicals
+# Cloud Computing Practicals
 
 # Q2) <img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/8fb303fe-3fed-46fa-b3f3-120a0c80ac4b" />
 <img width="1919" height="929" alt="Screenshot 2026-04-16 193709" src="https://github.com/user-attachments/assets/a8d7b82e-e40e-432c-b2af-44ffe1aa9741" />
